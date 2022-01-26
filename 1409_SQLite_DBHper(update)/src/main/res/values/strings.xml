@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1408_SQLite_DBHper(clear)</string>
+    <string name="myname">05邱建傑</string>
+    <string name="action_settings">結束</string>
+    <string name="清空所有資料">clear</string>
+    <string name="edid">ID</string>
+
+
+</resources>
