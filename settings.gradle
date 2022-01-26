@@ -9,3 +9,10 @@ dependencyResolutionManagement {
 rootProject.name = "CH14-SQLite"
 include ':14.1 SharedPreferences-Game'
 include ':1402SQLiteDataBase'
+include ':1402AQLiteDataBase'
+include ':1405 SQLite DBHper-add'
+include ':1406 SQLite DBHper(query)'
+include ':1407_SQLite_DBHper(browse)'
+include ':1407a_SQLite_DBHper(browse)'
+include ':1408_SQLite_DBHper(clear)'
+include ':1409_SQLite_DBHper(update)'

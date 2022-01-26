@@ -8,9 +8,32 @@
         <entry key="..\:/android-work/CH14SQLite/14.1 SharedPreferences-Game/src/main/res/layout/m1401.xml" value="0.28229166666666666" />
         <entry key="..\:/android-work/CH14SQLite/14.1 SharedPreferences-Game/src/main/res/layout/main.xml" value="0.28229166666666666" />
         <entry key="..\:/android-work/CH14SQLite/14.1 SharedPreferences-Game/src/main/res/menu/main.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/14.6 SQLite DBHper(query)/src/main/res/layout/m1405.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/CH14SQLite/14.6 SQLite DBHper(query)/src/main/res/layout/m1405insert.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/CH14SQLite/14.6 SQLite DBHper(query)/src/main/res/layout/m1405query.xml" value="0.2869791666666667" />
         <entry key="..\:/android-work/CH14SQLite/1402SQLiteDataBase/src/main/res/layout/m1402.xml" value="0.28229166666666666" />
         <entry key="..\:/android-work/CH14SQLite/1402SQLiteDataBase/src/main/res/menu/m1401.xml" value="0.28229166666666666" />
         <entry key="..\:/android-work/CH14SQLite/1402SQLiteDataBase/src/main/res/menu/main.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1405 SQLite DBHper-add/src/main/res/layout/m1405.xml" value="0.33" />
+        <entry key="..\:/android-work/CH14SQLite/1405 SQLite DBHper-add/src/main/res/layout/m1405inser.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1405 SQLite DBHper-add/src/main/res/layout/m1405insert.xml" value="0.33" />
+        <entry key="..\:/android-work/CH14SQLite/1405 SQLite DBHper-add/src/main/res/menu/m1405b.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1405 SQLite DBHper-add/src/main/res/menu/main.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1407_SQLite_DBHper(browse)/src/main/res/layout/m1405browse.xml" value="0.33" />
+        <entry key="..\:/android-work/CH14SQLite/1407_SQLite_DBHper(browse)/src/main/res/layout/m1405insert.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/CH14SQLite/1407_SQLite_DBHper(browse)/src/main/res/layout/m1405query.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/CH14SQLite/1407_SQLite_DBHper(browse)/src/main/res/menu/m1405.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/CH14SQLite/1407_SQLite_DBHper(browse)/src/main/res/menu/m1405b.xml" value="0.2869791666666667" />
+        <entry key="..\:/android-work/CH14SQLite/1407a_SQLite_DBHper(browse)/src/main/res/layout/m1405browse.xml" value="0.33" />
+        <entry key="..\:/android-work/CH14SQLite/1408_SQLite_DBHper(clear)/src/main/res/menu/m1405.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1408_SQLite_DBHper(clear)/src/main/res/menu/m1405b.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/layout/m1405.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/layout/m1405browse.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/layout/m1405insert.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/layout/m1405query.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/layout/m1405update.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/menu/m1405.xml" value="0.28229166666666666" />
+        <entry key="..\:/android-work/CH14SQLite/1409_SQLite_DBHper(update)/src/main/res/menu/m1405b.xml" value="0.28229166666666666" />
       </map>
     </option>
   </component>

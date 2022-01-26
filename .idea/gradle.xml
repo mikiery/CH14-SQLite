@@ -11,7 +11,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/14.1 SharedPreferences-Game" />
+            <option value="$PROJECT_DIR$/1402AQLiteDataBase" />
             <option value="$PROJECT_DIR$/1402SQLiteDataBase" />
+            <option value="$PROJECT_DIR$/1405 SQLite DBHper-add" />
+            <option value="$PROJECT_DIR$/1406 SQLite DBHper(query)" />
+            <option value="$PROJECT_DIR$/1407_SQLite_DBHper(browse)" />
+            <option value="$PROJECT_DIR$/1407a_SQLite_DBHper(browse)" />
+            <option value="$PROJECT_DIR$/1408_SQLite_DBHper(clear)" />
+            <option value="$PROJECT_DIR$/1409_SQLite_DBHper(update)" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
